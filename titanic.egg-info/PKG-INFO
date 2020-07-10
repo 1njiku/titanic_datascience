@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: titanic
+Version: 0.1
+Summary: Analysis of the Titanic dataset
+Home-page: https://github.com/1njiku/titanic_datascience
+Author: Teresiah Kahura
+Author-email: kahura.t@hotmail.com
+License: MIT
+Description: # Analysis of the Titanic dataset
+        
+        This projects aims at analysing Kaggle's Titanic dataset and build a predictive model for the Titanic data science challenge.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
